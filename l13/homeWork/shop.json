@@ -1,0 +1,28 @@
+{
+  "fruits&Vegetables":{
+    "showcase1":{
+      "apples":{
+        "golden": "20kg 25uan/kg",
+        "semerenko": "10kg 15uan/kg"
+      },
+      "oranges":{
+        "sort1":"25kg 40uan/kg",
+        "sort2":"30kg 55uan/kg"
+      }
+    },
+    "showcase2":{
+      "mango":{
+        "large": "20pcs 50uan/pcs",
+        "medium": "25pcs 40uan/pcs"
+      }
+    }
+  },
+  "meat&Fish":{
+    "showcase1":{
+      "herring":{
+        "Finnish": "30kg 80uan/kg",
+        "Norwegian": "10pack 40uan/pack"
+      }
+    }
+  }
+}
