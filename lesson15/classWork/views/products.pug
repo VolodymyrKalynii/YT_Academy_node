@@ -1,0 +1,10 @@
+extends layout
+block content
+	h1 #{my_product}
+	if fruits
+		if fruits[0].id = 1
+			p= fruits[0].name
+	//- ol
+	//- 	each product in fruits
+	//- 		li= product.name
+	
