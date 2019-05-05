@@ -25,7 +25,7 @@
 },
 {
    name: "The ",
-   genre: "fantasy",
+   genre: "fantasy1eef",
    country: "USA",
    year: 2019,
 }
