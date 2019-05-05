@@ -18,12 +18,6 @@
 },
 
 {
-   name: "The Game111",
-   genre: "thriller111",
-   country: "USA",
-   year: 1997,
-},
-{
    name: "The ",
    genre: "fantasy",
    country: "USA",
