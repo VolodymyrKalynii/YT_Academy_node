@@ -24,7 +24,7 @@
    year: 1997,
 },
 {
-   name: "The Game of thrones last sezon",
+   name: "The ",
    genre: "fantasy",
    country: "USA",
    year: 2019,
