@@ -15,6 +15,12 @@
    genre: "thriller",
    country: "USA",
    year: 1997,
+},
+{
+   name: "The Game of thrones",
+   genre: "fantasy",
+   country: "USA",
+   year: 2019,
 }
 
 use films
